@@ -1,1 +1,2 @@
-# BusinessAnalytics_Projects
+# Churn Prediction Model
+## The dataset was a telecom dataset taken from Kaggle. The dataset was used to perform descriptive analytics regarding the churn of customers and use different forecasting models to compare which model gives the best accuracy and area under the curve. Models used for forecasting were LogicticRegression Classifier, KNeighbors Classifier, GradientBoosting Classifier, DecisionTree Classifier, and XGBoost Classifier.
